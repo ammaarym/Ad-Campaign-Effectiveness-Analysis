@@ -16,4 +16,6 @@ You're running massive campaigns across platforms like **Google Ads**, **Faceboo
 - **GitHub**: This project lives on GitHub, showcasing the integration of data and cutting-edge tools to deliver high-level performance insights.
 
 ## 📈 How to Access This Game-Changing Dashboard
-- Access the **Digital Ads Performance Dashboard**(https://public.tableau.com/views/AdCampaignEffectivenessAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Access the **Digital Ads Performance Dashboard** 
+
+(https://public.tableau.com/views/AdCampaignEffectivenessAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
